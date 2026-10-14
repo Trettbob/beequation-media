@@ -1,0 +1,53 @@
+{
+  "date": "practice",
+  "mode": "add",
+  "variant": "kids",
+  "tier": 3,
+  "seed": "kids-oct24",
+  "hive": null,
+  "cells": [
+    {
+      "n": 4,
+      "d": 1
+    },
+    {
+      "n": 20,
+      "d": 1
+    },
+    {
+      "n": 15,
+      "d": 1
+    },
+    {
+      "n": 2,
+      "d": 1
+    },
+    {
+      "n": 17,
+      "d": 1
+    }
+  ],
+  "op": "add",
+  "answer": 4,
+  "pair": [
+    2,
+    3
+  ],
+  "prompt": "sum",
+  "equation": "15 + 2 = 17",
+  "explanation": "15 plus 2 equals 17.",
+  "alt": "Beequation Kids number puzzle. 5 pointy-top hexagon cells, read row by row from left to right: 4, 20, 15, 2, 17. Find the number made by adding two other cells.",
+  "files": {
+    "question": {
+      "square": "question-square.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "square": "answer-square.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "date": "practice",
+  "mode": "mixed",
+  "variant": "pro",
+  "tier": 5,
+  "seed": "oct23",
+  "hive": null,
+  "cells": [
+    {
+      "n": 13,
+      "d": 1
+    },
+    {
+      "n": 24,
+      "d": 1
+    },
+    {
+      "n": 4,
+      "d": 1
+    },
+    {
+      "n": 188,
+      "d": 1
+    },
+    {
+      "n": 119,
+      "d": 1
+    },
+    {
+      "n": 29,
+      "d": 1
+    },
+    {
+      "n": 2,
+      "d": 1
+    },
+    {
+      "n": 90,
+      "d": 1
+    },
+    {
+      "n": 6,
+      "d": 1
+    }
+  ],
+  "op": "mul",
+  "answer": 1,
+  "pair": [
+    2,
+    8
+  ],
+  "prompt": "product",
+  "equation": "4 × 6 = 24",
+  "explanation": "4 times 6 equals 24.",
+  "alt": "Beequation Pro number puzzle. 9 pointy-top hexagon cells, read row by row from left to right: 13, 24, 4, 188, 119, 29, 2, 90, 6. Find the number made by multiplying two other cells.",
+  "files": {
+    "question": {
+      "square": "question-square.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "square": "answer-square.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}

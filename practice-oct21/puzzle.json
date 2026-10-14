@@ -1,0 +1,69 @@
+{
+  "date": "practice",
+  "mode": "mixed",
+  "variant": "pro",
+  "tier": 5,
+  "seed": "oct21",
+  "hive": null,
+  "cells": [
+    {
+      "n": 113,
+      "d": 1
+    },
+    {
+      "n": 12,
+      "d": 1
+    },
+    {
+      "n": 31,
+      "d": 1
+    },
+    {
+      "n": 115,
+      "d": 1
+    },
+    {
+      "n": 34,
+      "d": 1
+    },
+    {
+      "n": 41,
+      "d": 1
+    },
+    {
+      "n": 144,
+      "d": 1
+    },
+    {
+      "n": 204,
+      "d": 1
+    },
+    {
+      "n": 12,
+      "d": 1
+    }
+  ],
+  "op": "add",
+  "answer": 6,
+  "pair": [
+    0,
+    2
+  ],
+  "prompt": "sum",
+  "equation": "113 + 31 = 144",
+  "explanation": "113 plus 31 equals 144.",
+  "alt": "Beequation Pro number puzzle. 9 pointy-top hexagon cells, read row by row from left to right: 113, 12, 31, 115, 34, 41, 144, 204, 12. Find the number made by adding two other cells.",
+  "files": {
+    "question": {
+      "square": "question-square.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "square": "answer-square.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}

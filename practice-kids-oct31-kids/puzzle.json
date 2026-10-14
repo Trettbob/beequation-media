@@ -1,0 +1,53 @@
+{
+  "date": "practice",
+  "mode": "add",
+  "variant": "kids",
+  "tier": 3,
+  "seed": "kids-oct31",
+  "hive": null,
+  "cells": [
+    {
+      "n": 16,
+      "d": 1
+    },
+    {
+      "n": 3,
+      "d": 1
+    },
+    {
+      "n": 9,
+      "d": 1
+    },
+    {
+      "n": 19,
+      "d": 1
+    },
+    {
+      "n": 17,
+      "d": 1
+    }
+  ],
+  "op": "add",
+  "answer": 3,
+  "pair": [
+    0,
+    1
+  ],
+  "prompt": "sum",
+  "equation": "16 + 3 = 19",
+  "explanation": "16 plus 3 equals 19.",
+  "alt": "Beequation Kids number puzzle. 5 pointy-top hexagon cells, read row by row from left to right: 16, 3, 9, 19, 17. Find the number made by adding two other cells.",
+  "files": {
+    "question": {
+      "square": "question-square.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "square": "answer-square.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}

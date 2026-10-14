@@ -1,0 +1,69 @@
+{
+  "date": "practice",
+  "mode": "mixed",
+  "variant": "pro",
+  "tier": 5,
+  "seed": "oct25",
+  "hive": null,
+  "cells": [
+    {
+      "n": 3,
+      "d": 1
+    },
+    {
+      "n": 214,
+      "d": 1
+    },
+    {
+      "n": 215,
+      "d": 1
+    },
+    {
+      "n": 42,
+      "d": 1
+    },
+    {
+      "n": 44,
+      "d": 1
+    },
+    {
+      "n": 60,
+      "d": 1
+    },
+    {
+      "n": 182,
+      "d": 1
+    },
+    {
+      "n": 14,
+      "d": 1
+    },
+    {
+      "n": 8,
+      "d": 1
+    }
+  ],
+  "op": "mul",
+  "answer": 3,
+  "pair": [
+    0,
+    7
+  ],
+  "prompt": "product",
+  "equation": "3 × 14 = 42",
+  "explanation": "3 times 14 equals 42.",
+  "alt": "Beequation Pro number puzzle. 9 pointy-top hexagon cells, read row by row from left to right: 3, 214, 215, 42, 44, 60, 182, 14, 8. Find the number made by multiplying two other cells.",
+  "files": {
+    "question": {
+      "square": "question-square.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "square": "answer-square.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}

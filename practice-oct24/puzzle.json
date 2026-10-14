@@ -1,0 +1,69 @@
+{
+  "date": "practice",
+  "mode": "mixed",
+  "variant": "pro",
+  "tier": 5,
+  "seed": "oct24",
+  "hive": null,
+  "cells": [
+    {
+      "n": 77,
+      "d": 1
+    },
+    {
+      "n": 180,
+      "d": 1
+    },
+    {
+      "n": 15,
+      "d": 1
+    },
+    {
+      "n": 65,
+      "d": 1
+    },
+    {
+      "n": 158,
+      "d": 1
+    },
+    {
+      "n": 64,
+      "d": 1
+    },
+    {
+      "n": 12,
+      "d": 1
+    },
+    {
+      "n": 117,
+      "d": 1
+    },
+    {
+      "n": 225,
+      "d": 1
+    }
+  ],
+  "op": "mul",
+  "answer": 1,
+  "pair": [
+    2,
+    6
+  ],
+  "prompt": "product",
+  "equation": "15 × 12 = 180",
+  "explanation": "15 times 12 equals 180.",
+  "alt": "Beequation Pro number puzzle. 9 pointy-top hexagon cells, read row by row from left to right: 77, 180, 15, 65, 158, 64, 12, 117, 225. Find the number made by multiplying two other cells.",
+  "files": {
+    "question": {
+      "square": "question-square.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "square": "answer-square.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}

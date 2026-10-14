@@ -1,0 +1,69 @@
+{
+  "date": "practice",
+  "mode": "mixed",
+  "variant": "pro",
+  "tier": 5,
+  "seed": "oct30",
+  "hive": null,
+  "cells": [
+    {
+      "n": 21,
+      "d": 1
+    },
+    {
+      "n": 207,
+      "d": 1
+    },
+    {
+      "n": 210,
+      "d": 1
+    },
+    {
+      "n": 15,
+      "d": 1
+    },
+    {
+      "n": 7,
+      "d": 1
+    },
+    {
+      "n": 4,
+      "d": 1
+    },
+    {
+      "n": 205,
+      "d": 1
+    },
+    {
+      "n": 209,
+      "d": 1
+    },
+    {
+      "n": 14,
+      "d": 1
+    }
+  ],
+  "op": "mul",
+  "answer": 2,
+  "pair": [
+    3,
+    8
+  ],
+  "prompt": "product",
+  "equation": "15 × 14 = 210",
+  "explanation": "15 times 14 equals 210.",
+  "alt": "Beequation Pro number puzzle. 9 pointy-top hexagon cells, read row by row from left to right: 21, 207, 210, 15, 7, 4, 205, 209, 14. Find the number made by multiplying two other cells.",
+  "files": {
+    "question": {
+      "square": "question-square.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "square": "answer-square.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}

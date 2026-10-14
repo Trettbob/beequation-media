@@ -1,0 +1,69 @@
+{
+  "date": "practice",
+  "mode": "mixed",
+  "variant": "pro",
+  "tier": 5,
+  "seed": "oct29",
+  "hive": null,
+  "cells": [
+    {
+      "n": 214,
+      "d": 1
+    },
+    {
+      "n": 53,
+      "d": 1
+    },
+    {
+      "n": 202,
+      "d": 1
+    },
+    {
+      "n": 222,
+      "d": 1
+    },
+    {
+      "n": 163,
+      "d": 1
+    },
+    {
+      "n": 35,
+      "d": 1
+    },
+    {
+      "n": 212,
+      "d": 1
+    },
+    {
+      "n": 137,
+      "d": 1
+    },
+    {
+      "n": 161,
+      "d": 1
+    }
+  ],
+  "op": "add",
+  "answer": 0,
+  "pair": [
+    1,
+    8
+  ],
+  "prompt": "sum",
+  "equation": "53 + 161 = 214",
+  "explanation": "53 plus 161 equals 214.",
+  "alt": "Beequation Pro number puzzle. 9 pointy-top hexagon cells, read row by row from left to right: 214, 53, 202, 222, 163, 35, 212, 137, 161. Find the number made by adding two other cells.",
+  "files": {
+    "question": {
+      "square": "question-square.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "square": "answer-square.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}

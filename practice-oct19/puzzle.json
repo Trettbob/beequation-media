@@ -1,0 +1,69 @@
+{
+  "date": "practice",
+  "mode": "mixed",
+  "variant": "pro",
+  "tier": 5,
+  "seed": "oct19",
+  "hive": null,
+  "cells": [
+    {
+      "n": 90,
+      "d": 1
+    },
+    {
+      "n": 77,
+      "d": 1
+    },
+    {
+      "n": 22,
+      "d": 1
+    },
+    {
+      "n": 6,
+      "d": 1
+    },
+    {
+      "n": 130,
+      "d": 1
+    },
+    {
+      "n": 8,
+      "d": 1
+    },
+    {
+      "n": 11,
+      "d": 1
+    },
+    {
+      "n": 49,
+      "d": 1
+    },
+    {
+      "n": 7,
+      "d": 1
+    }
+  ],
+  "op": "mul",
+  "answer": 1,
+  "pair": [
+    6,
+    8
+  ],
+  "prompt": "product",
+  "equation": "11 × 7 = 77",
+  "explanation": "11 times 7 equals 77.",
+  "alt": "Beequation Pro number puzzle. 9 pointy-top hexagon cells, read row by row from left to right: 90, 77, 22, 6, 130, 8, 11, 49, 7. Find the number made by multiplying two other cells.",
+  "files": {
+    "question": {
+      "square": "question-square.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "square": "answer-square.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}

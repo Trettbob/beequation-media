@@ -1,0 +1,53 @@
+{
+  "date": "practice",
+  "mode": "add",
+  "variant": "kids",
+  "tier": 3,
+  "seed": "kids-oct28",
+  "hive": null,
+  "cells": [
+    {
+      "n": 15,
+      "d": 1
+    },
+    {
+      "n": 3,
+      "d": 1
+    },
+    {
+      "n": 8,
+      "d": 1
+    },
+    {
+      "n": 12,
+      "d": 1
+    },
+    {
+      "n": 10,
+      "d": 1
+    }
+  ],
+  "op": "add",
+  "answer": 0,
+  "pair": [
+    1,
+    3
+  ],
+  "prompt": "sum",
+  "equation": "3 + 12 = 15",
+  "explanation": "3 plus 12 equals 15.",
+  "alt": "Beequation Kids number puzzle. 5 pointy-top hexagon cells, read row by row from left to right: 15, 3, 8, 12, 10. Find the number made by adding two other cells.",
+  "files": {
+    "question": {
+      "square": "question-square.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "square": "answer-square.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}

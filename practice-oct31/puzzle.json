@@ -1,0 +1,69 @@
+{
+  "date": "practice",
+  "mode": "mixed",
+  "variant": "pro",
+  "tier": 5,
+  "seed": "oct31",
+  "hive": null,
+  "cells": [
+    {
+      "n": 104,
+      "d": 1
+    },
+    {
+      "n": 65,
+      "d": 1
+    },
+    {
+      "n": 141,
+      "d": 1
+    },
+    {
+      "n": 10,
+      "d": 1
+    },
+    {
+      "n": 189,
+      "d": 1
+    },
+    {
+      "n": 156,
+      "d": 1
+    },
+    {
+      "n": 3,
+      "d": 1
+    },
+    {
+      "n": 9,
+      "d": 1
+    },
+    {
+      "n": 90,
+      "d": 1
+    }
+  ],
+  "op": "mul",
+  "answer": 8,
+  "pair": [
+    3,
+    7
+  ],
+  "prompt": "product",
+  "equation": "10 × 9 = 90",
+  "explanation": "10 times 9 equals 90.",
+  "alt": "Beequation Pro number puzzle. 9 pointy-top hexagon cells, read row by row from left to right: 104, 65, 141, 10, 189, 156, 3, 9, 90. Find the number made by multiplying two other cells.",
+  "files": {
+    "question": {
+      "square": "question-square.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "square": "answer-square.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "date": "practice",
+  "mode": "mixed",
+  "variant": "pro",
+  "tier": 5,
+  "seed": "oct28c",
+  "hive": null,
+  "cells": [
+    {
+      "n": 169,
+      "d": 1
+    },
+    {
+      "n": 132,
+      "d": 1
+    },
+    {
+      "n": 69,
+      "d": 1
+    },
+    {
+      "n": 42,
+      "d": 1
+    },
+    {
+      "n": 247,
+      "d": 1
+    },
+    {
+      "n": 104,
+      "d": 1
+    },
+    {
+      "n": 243,
+      "d": 1
+    },
+    {
+      "n": 65,
+      "d": 1
+    },
+    {
+      "n": 41,
+      "d": 1
+    }
+  ],
+  "op": "add",
+  "answer": 0,
+  "pair": [
+    5,
+    7
+  ],
+  "prompt": "sum",
+  "equation": "104 + 65 = 169",
+  "explanation": "104 plus 65 equals 169.",
+  "alt": "Beequation Pro number puzzle. 9 pointy-top hexagon cells, read row by row from left to right: 169, 132, 69, 42, 247, 104, 243, 65, 41. Find the number made by adding two other cells.",
+  "files": {
+    "question": {
+      "square": "question-square.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "square": "answer-square.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}
