@@ -41,6 +41,7 @@
   "files": {
     "question": {
       "tall": "question-tall.png",
+      "ig": "question-ig.png",
       "square": "question-square.png",
       "square-swipe": "question-square-swipe.png",
       "portrait": "question-portrait.png",
@@ -48,6 +49,7 @@
     },
     "answer": {
       "tall": "answer-tall.png",
+      "ig": "answer-ig.png",
       "square": "answer-square.png",
       "square-swipe": "answer-square-swipe.png",
       "portrait": "answer-portrait.png",
