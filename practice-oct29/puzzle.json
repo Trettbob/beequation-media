@@ -53,14 +53,19 @@
   "equation": "53 + 161 = 214",
   "explanation": "53 plus 161 equals 214.",
   "alt": "Beequation Pro number puzzle. 9 pointy-top hexagon cells, read row by row from left to right: 214, 53, 202, 222, 163, 35, 212, 137, 161. Find the number made by adding two other cells.",
+  "videoCoverMs": 4000,
   "files": {
     "question": {
+      "tall": "question-tall.png",
       "square": "question-square.png",
+      "square-swipe": "question-square-swipe.png",
       "portrait": "question-portrait.png",
       "pin": "question-pin.png"
     },
     "answer": {
+      "tall": "answer-tall.png",
       "square": "answer-square.png",
+      "square-swipe": "answer-square-swipe.png",
       "portrait": "answer-portrait.png",
       "pin": "answer-pin.png"
     },

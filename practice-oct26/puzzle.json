@@ -53,14 +53,19 @@
   "equation": "30 + 113 = 143",
   "explanation": "30 plus 113 equals 143.",
   "alt": "Beequation Pro number puzzle. 9 pointy-top hexagon cells, read row by row from left to right: 111, 151, 213, 140, 30, 143, 103, 113, 153. Find the number made by adding two other cells.",
+  "videoCoverMs": 4000,
   "files": {
     "question": {
+      "tall": "question-tall.png",
       "square": "question-square.png",
+      "square-swipe": "question-square-swipe.png",
       "portrait": "question-portrait.png",
       "pin": "question-pin.png"
     },
     "answer": {
+      "tall": "answer-tall.png",
       "square": "answer-square.png",
+      "square-swipe": "answer-square-swipe.png",
       "portrait": "answer-portrait.png",
       "pin": "answer-pin.png"
     },

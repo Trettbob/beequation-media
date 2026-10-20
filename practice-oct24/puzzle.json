@@ -53,14 +53,19 @@
   "equation": "15 × 12 = 180",
   "explanation": "15 times 12 equals 180.",
   "alt": "Beequation Pro number puzzle. 9 pointy-top hexagon cells, read row by row from left to right: 77, 180, 15, 65, 158, 64, 12, 117, 225. Find the number made by multiplying two other cells.",
+  "videoCoverMs": 4000,
   "files": {
     "question": {
+      "tall": "question-tall.png",
       "square": "question-square.png",
+      "square-swipe": "question-square-swipe.png",
       "portrait": "question-portrait.png",
       "pin": "question-pin.png"
     },
     "answer": {
+      "tall": "answer-tall.png",
       "square": "answer-square.png",
+      "square-swipe": "answer-square-swipe.png",
       "portrait": "answer-portrait.png",
       "pin": "answer-pin.png"
     },
