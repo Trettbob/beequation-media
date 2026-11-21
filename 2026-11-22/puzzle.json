@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-22",
+  "mode": "mixed",
+  "variant": "pro",
+  "tier": 5,
+  "seed": null,
+  "hive": 22,
+  "cells": [
+    {
+      "n": 82,
+      "d": 1
+    },
+    {
+      "n": 13,
+      "d": 1
+    },
+    {
+      "n": 12,
+      "d": 1
+    },
+    {
+      "n": 40,
+      "d": 1
+    },
+    {
+      "n": 75,
+      "d": 1
+    },
+    {
+      "n": 8,
+      "d": 1
+    },
+    {
+      "n": 44,
+      "d": 1
+    },
+    {
+      "n": 5,
+      "d": 1
+    },
+    {
+      "n": 80,
+      "d": 1
+    }
+  ],
+  "op": "mul",
+  "answer": 3,
+  "pair": [
+    5,
+    7
+  ],
+  "prompt": "product",
+  "equation": "8 × 5 = 40",
+  "explanation": "8 times 5 equals 40.",
+  "alt": "Beequation Pro number puzzle, Hive No. 22. 9 pointy-top hexagon cells, read row by row from left to right: 82, 13, 12, 40, 75, 8, 44, 5, 80. Find the number made by multiplying two other cells.",
+  "videoCoverMs": 4000,
+  "files": {
+    "question": {
+      "tall": "question-tall.png",
+      "ig": "question-ig.png",
+      "square": "question-square.png",
+      "square-swipe": "question-square-swipe.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "tall": "answer-tall.png",
+      "ig": "answer-ig.png",
+      "square": "answer-square.png",
+      "square-swipe": "answer-square-swipe.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}
