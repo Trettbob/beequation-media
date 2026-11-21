@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-21",
+  "mode": "mixed",
+  "variant": "pro",
+  "tier": 5,
+  "seed": null,
+  "hive": 21,
+  "cells": [
+    {
+      "n": 95,
+      "d": 1
+    },
+    {
+      "n": 126,
+      "d": 1
+    },
+    {
+      "n": 10,
+      "d": 1
+    },
+    {
+      "n": 96,
+      "d": 1
+    },
+    {
+      "n": 98,
+      "d": 1
+    },
+    {
+      "n": 97,
+      "d": 1
+    },
+    {
+      "n": 69,
+      "d": 1
+    },
+    {
+      "n": 38,
+      "d": 1
+    },
+    {
+      "n": 223,
+      "d": 1
+    }
+  ],
+  "op": "add",
+  "answer": 8,
+  "pair": [
+    1,
+    5
+  ],
+  "prompt": "sum",
+  "equation": "126 + 97 = 223",
+  "explanation": "126 plus 97 equals 223.",
+  "alt": "Beequation Pro number puzzle, Hive No. 21. 9 pointy-top hexagon cells, read row by row from left to right: 95, 126, 10, 96, 98, 97, 69, 38, 223. Find the number made by adding two other cells.",
+  "videoCoverMs": 4000,
+  "files": {
+    "question": {
+      "tall": "question-tall.png",
+      "ig": "question-ig.png",
+      "square": "question-square.png",
+      "square-swipe": "question-square-swipe.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "tall": "answer-tall.png",
+      "ig": "answer-ig.png",
+      "square": "answer-square.png",
+      "square-swipe": "answer-square-swipe.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}
