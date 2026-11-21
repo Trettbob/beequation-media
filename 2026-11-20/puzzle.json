@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-20",
+  "mode": "mixed",
+  "variant": "pro",
+  "tier": 5,
+  "seed": null,
+  "hive": 20,
+  "cells": [
+    {
+      "n": 215,
+      "d": 1
+    },
+    {
+      "n": 169,
+      "d": 1
+    },
+    {
+      "n": 184,
+      "d": 1
+    },
+    {
+      "n": 203,
+      "d": 1
+    },
+    {
+      "n": 170,
+      "d": 1
+    },
+    {
+      "n": 12,
+      "d": 1
+    },
+    {
+      "n": 193,
+      "d": 1
+    },
+    {
+      "n": 216,
+      "d": 1
+    },
+    {
+      "n": 218,
+      "d": 1
+    }
+  ],
+  "op": "add",
+  "answer": 0,
+  "pair": [
+    3,
+    5
+  ],
+  "prompt": "sum",
+  "equation": "203 + 12 = 215",
+  "explanation": "203 plus 12 equals 215.",
+  "alt": "Beequation Pro number puzzle, Hive No. 20. 9 pointy-top hexagon cells, read row by row from left to right: 215, 169, 184, 203, 170, 12, 193, 216, 218. Find the number made by adding two other cells.",
+  "videoCoverMs": 4000,
+  "files": {
+    "question": {
+      "tall": "question-tall.png",
+      "ig": "question-ig.png",
+      "square": "question-square.png",
+      "square-swipe": "question-square-swipe.png",
+      "portrait": "question-portrait.png",
+      "pin": "question-pin.png"
+    },
+    "answer": {
+      "tall": "answer-tall.png",
+      "ig": "answer-ig.png",
+      "square": "answer-square.png",
+      "square-swipe": "answer-square-swipe.png",
+      "portrait": "answer-portrait.png",
+      "pin": "answer-pin.png"
+    },
+    "video": "question-video.mp4"
+  }
+}
